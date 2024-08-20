@@ -1,2 +1,2 @@
-# Trayecto2
-SIstema de inventario
+# Sistema de inventario
+SIstema de inventario segundo proyecto universitario
